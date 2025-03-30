@@ -1,6 +1,6 @@
 local OrionLib = loadstring(game:HttpGet('https://pastebin.com/raw/xLRUSiKx'))()
 
-local Window = OrionLib:MakeWindow({Name = "storage抽奖相关", HidePremium = false, SaveConfig = true,IntroText = "by seek", ConfigFolder = "FFFFF"})
+local Window = OrionLib:MakeWindow({Name = "storage抽奖相关",HidePremium = false,SaveConfig = true,IntroText = "by seek",ConfigFolder = "FFFFF"})
 local Tab = Window:MakeTab({
     Name = "功能分类名",
     Icon = "rbxassetid://4483345998",	
